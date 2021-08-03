@@ -9,7 +9,8 @@
 
 - in the terminal run this code: 
 
-``` export TURTLEBOT3_MODEL=burger
+``` 
+export TURTLEBOT3_MODEL=burger
 
 roslaunch turtlebot3_gazebo turtlebot3_world.launch
 ```
@@ -23,7 +24,8 @@ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
 - open a new terminal from file - new tap, and run navigation node: 
 
-``` export TURTLEBOT3_MODEL=burger
+```
+export TURTLEBOT3_MODEL=burger
 
 roslaunch turtlebot3_navigation turtlebot3_navigation.launch 
 ```
